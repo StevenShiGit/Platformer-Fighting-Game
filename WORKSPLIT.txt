@@ -1,0 +1,4 @@
+Work Split:
+In the comments, code/classes made by Steven are represented with SS and code/classes made by Jerry are represented with JZ.
+Most classes have a comment saying who did most of the work in the class, or who did the entire class
+Comments without SS or JZ means the guy who did most of the class wrote the code
